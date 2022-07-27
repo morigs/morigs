@@ -75,24 +75,6 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<br/>
-
-## Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=morigs&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />  
-
-<div align="center">
-<a href="https://profile.codersrank.io/user/morigs"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?width=150&badge-min-width=45&min-width=140&widget=summary&username=morigs&show-avatar=false&branding=false&style=--bg-color:transparent;--header-bg-color:%2300000066;--badge-technology-font-size:0.2rem;--badge-rank-font-size:0.4rem;--badge-location-font-size:0.2rem;--name-font-size:0.4rem;--rank-font-size:0.3rem;--badge-icon-size:10px" align="center" height="240" width="300" />
-</a>
-</div>  
-  
-
-<br/>  
-
-
-## Spotify Listening  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ey8h9nuqsgb80ajlddcr3gomz&cover_image=true&theme=novatorem" /></div>  
-
 <br/>  
 
 <div align="center">
